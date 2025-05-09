@@ -10,7 +10,7 @@ const ContactFormSection = ({showMessageBox, setShowMessageBox,setStatus,setProg
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch("http://localhost:3001/contact", {
+      const response = await fetch("https://restaurant-back-end-lbnh.vercel.app/contact", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
