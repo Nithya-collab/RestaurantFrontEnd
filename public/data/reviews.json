@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Alice Johnson",
+      "comment": "Fantastic ambiance and delicious food. Will definitely come back!",
+      "rating": 5,
+      "image": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+      "name": "Michael Smith",
+      "comment": "Great service and the best pasta in town.",
+      "rating": 4,
+      "image": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "name": "Sara Lee",
+      "comment": "Loved the desserts. A perfect evening spot.",
+      "rating": 5,
+      "image": "https://randomuser.me/api/portraits/women/3.jpg"
+    }
+  ]
+  

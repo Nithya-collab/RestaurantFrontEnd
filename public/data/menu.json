@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Spicy Grilled Chicken",
+    "description": "Grilled chicken with peri-peri sauce and herbs",
+    "price": "$12.99",
+    "category": "Main Course"
+  },
+  {
+    "name": "Creamy Mushroom Pasta",
+    "description": "Pasta tossed in creamy garlic mushroom sauce",
+    "price": "$10.50",
+    "category": "Pasta"
+  },
+  {
+    "name": "Classic Margherita Pizza",
+    "description": "Wood-fired pizza with fresh mozzarella, tomatoes, and basil",
+    "price": "$11.75",
+    "category": "Pizza"
+  },
+  {
+    "name": "Garlic Butter Shrimp",
+    "description": "Juicy shrimp sautéed in garlic butter and parsley",
+    "price": "$14.00",
+    "category": "Appetizer"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Crisp romaine lettuce with Caesar dressing, croutons, and parmesan",
+    "price": "$8.50",
+    "category": "Salad"
+  },
+  {
+    "name": "Beef Steak",
+    "description": "Grilled beef steak served with peppercorn sauce and mashed potatoes",
+    "price": "$19.99",
+    "category": "Main Course"
+  },
+  {
+    "name": "Tandoori Paneer Tikka",
+    "description": "Indian spiced cottage cheese grilled to perfection",
+    "price": "$9.99",
+    "category": "Vegetarian"
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a molten center, served with vanilla ice cream",
+    "price": "$6.99",
+    "category": "Dessert"
+  },
+  {
+    "name": "Thai Green Curry",
+    "description": "Creamy coconut curry with mixed vegetables and jasmine rice",
+    "price": "$13.25",
+    "category": "Main Course"
+  },
+  {
+    "name": "Lemon Iced Tea",
+    "description": "Refreshing iced tea with a splash of lemon and mint",
+    "price": "$3.50",
+    "category": "Beverage"
+  },
+  {
+    "name": "Seafood Paella",
+    "description": "Traditional Spanish rice dish with shrimp, mussels, and clams",
+    "price": "$18.50",
+    "category": "Main Course"
+  },
+  {
+    "name": "Veggie Burger",
+    "description": "Grilled vegetable patty with lettuce, tomato, and aioli in a brioche bun",
+    "price": "$9.50",
+    "category": "Burger"
+  },
+  {
+    "name": "French Fries",
+    "description": "Crispy golden fries with a side of ketchup and mayo",
+    "price": "$4.25",
+    "category": "Sides"
+  },
+  {
+    "name": "Mango Smoothie",
+    "description": "Chilled mango puree blended with yogurt and honey",
+    "price": "$5.00",
+    "category": "Beverage"
+  }
+]
